@@ -1,2 +1,2 @@
 # pic-compression
-pic compression
+Программа для сжатия картинок
