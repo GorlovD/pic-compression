@@ -1,0 +1,13 @@
+D:\!DG\!PROJECT\foto_min\foto_min\obj\Debug\foto_min.csprojResolveAssemblyReference.cache
+D:\!DG\!PROJECT\foto_min\foto_min\obj\Debug\foto_min.Form1.resources
+D:\!DG\!PROJECT\foto_min\foto_min\obj\Debug\foto_min.Properties.Resources.resources
+D:\!DG\!PROJECT\foto_min\foto_min\obj\Debug\foto_min.csproj.GenerateResource.Cache
+D:\!DG\!PROJECT\foto_min\foto_min\bin\Debug\pic compression.exe.manifest
+D:\!DG\!PROJECT\foto_min\foto_min\bin\Debug\pic compression.application
+D:\!DG\!PROJECT\foto_min\foto_min\bin\Debug\pic compression.exe
+D:\!DG\!PROJECT\foto_min\foto_min\bin\Debug\pic compression.pdb
+D:\!DG\!PROJECT\foto_min\foto_min\obj\Debug\pic compression.TrustInfo.xml
+D:\!DG\!PROJECT\foto_min\foto_min\obj\Debug\pic compression.exe.manifest
+D:\!DG\!PROJECT\foto_min\foto_min\obj\Debug\pic compression.application
+D:\!DG\!PROJECT\foto_min\foto_min\obj\Debug\pic compression.exe
+D:\!DG\!PROJECT\foto_min\foto_min\obj\Debug\pic compression.pdb
